@@ -34,7 +34,7 @@
 
 ### 📈 Contribution Graph  
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=suvam123-s&theme=radical&bg_color=1a1b27&color=9e4c98&line=9e4c98&point=403d3d" alt="Suvam's GitHub Activity Graph" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=suvam123-s&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Suvam's Contribution Graph" />
 </div>
 
 ---

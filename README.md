@@ -30,12 +30,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=suvam123-s&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Suvam's GitHub Streaks" height="160" />  
 </div>
 
----
-
-### 📈 Contribution Graph  
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=suvam123-s&theme=github-dark&bg_color=1a1b27&color=9e4c98&line=61dafb&point=FFFFFF" alt="Suvam's Contribution Graph" />
-</div>
 
 ---
 
